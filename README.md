@@ -6,4 +6,5 @@ Projeto realizado no curso Data Visualization: explorando com Seaborn (prof. Gui
 - Analisamos o valor da conta x gorjeta através de um gráfico de dispersão (scatterplot) e procuramos por valores nulos na base de dados importada.
 - Criamos um novo campo no DataFrame, o "Porcentagem", para entender qual o percentual do total da conta que corresponde a gorjeta.
 - Com o novo campo foi possível plotar mais alguns gráficos para verificar se o valor da gorjeta é proporcional ao valor total da conta ou não.
-- Para o Teste de Hipótese, baixamos o ranksums da biblioteca SciPy, que faz o cálculo do p-value e assim, podemos seguir com uma ou outra hipótese definida.
+- Aanlisamos o campo Sobremesa e realizamos seu teste de hipótese. Para o Teste de Hipótese, baixamos o ranksums da biblioteca SciPy, que faz o cálculo do p-value e assim, podemos seguir com uma ou outra hipótese definida.
+- Aanlisamos o campo Dia da Semana e realizamos seu teste de hipótese.
