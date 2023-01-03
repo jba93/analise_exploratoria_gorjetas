@@ -1,5 +1,12 @@
 # Analisando gorjetas
-Projeto realizado no curso Data Visualization: explorando com Seaborn (prof. Guilherme Lima - Alura).
+
+### Tecnologias utilizadas
+Python, Pandas, Seaborn e Google Colab.
+
+### Desafio
+https://cursos.alura.com.br/course/data-visualization-com-seaborn
+
+### Descrição
 
 - Importamos os dados referentes as gorjetas de um arquivo .csv, transformamo-os em DataFrame e os traduzimos, já que estavam em inglês.
 - Instalamos a biblioteca Seaborn para a plotagem de gráficos.
