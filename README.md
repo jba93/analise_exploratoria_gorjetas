@@ -1,7 +1,7 @@
 # Analisando gorjetas
 
 ### Tecnologias utilizadas
-Python, Pandas, Seaborn e Google Colab.
+Python, Pandas, Seaborn, SciPy e Google Colab.
 
 ### Desafio
 https://cursos.alura.com.br/course/data-visualization-com-seaborn
